@@ -1,4 +1,4 @@
 .env
 reqs.txt
-cogs
+cogs/__pycache__
 discord.log
