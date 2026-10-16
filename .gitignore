@@ -1,4 +1,4 @@
 .env
-reqs.txt
 cogs/__pycache__
 discord.log
+json_files/ig_token.json
