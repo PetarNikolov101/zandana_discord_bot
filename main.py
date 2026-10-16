@@ -26,6 +26,7 @@ async def main():
         await bot.load_extension("cogs.dice_roll")
         await bot.load_extension("cogs.welcome")
         await bot.load_extension("cogs.find")
+        #await bot.load_extension("cogs.fetch_post")
         await bot.start(token)
 
 asyncio.run(main())
